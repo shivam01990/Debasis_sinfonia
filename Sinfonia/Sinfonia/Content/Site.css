@@ -53,3 +53,8 @@ textarea {
 .margintop20 {
     margin-top: 20px;
 }
+
+.btn-default{
+     background-color: #55B95E !important;
+    text-align:left !important;
+}
